@@ -6,7 +6,7 @@ Cara pemakaian
 
 #pkg install upgrade
 
-#pkg install python2
+#pkg install python
 
 #pkg install git
 
