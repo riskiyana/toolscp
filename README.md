@@ -2,11 +2,16 @@
 
 
 Cara pemakaian
+
 #pkg install update
 
 #pkg install upgrade
 
 #pkg install python
+
+#pkg install lolcat
+
+#pkg install cowsay
 
 #pkg install git
 
