@@ -1,5 +1,7 @@
 # Woy jangan asal comot . Subs dulu anjiirrrr
 
+https://www.youtube.com/channel/UCN0apMFGxhyL0Em5zn8qQBg
+
 
 Cara pemakaian
 
